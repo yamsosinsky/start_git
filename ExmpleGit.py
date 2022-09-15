@@ -5,7 +5,7 @@ print(" Hello Enter your  name: ")
 print(" Hello Enter your adress: ")
 
 
-print("your name")
+print("yam")
 """
 name = "Name" 
 print(" Hello " , name ," How are you: " )
